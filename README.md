@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Banner](C:\Users\Rahul&Sharma\Pictures\github_banner.jpg)
 
 # Hi there 👋🏼, I'm Rahul:
 
@@ -34,5 +35,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahulsiiitm&icon=8&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
