@@ -1,37 +1,143 @@
+<!-- Banner -->
+<img src="https://github.com/user-attachments/assets/4abd672e-6ec2-4ae1-9bbb-7d255554a6ac" alt="banner" style="width:100%; border-radius:10px;"/>
 
-<!--
-**rahulsiiitm/rahulsiiitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Rahul Sharma</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=38B27D&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+Data+Science+Enthusiast;Developer+at+IIIT+Manipur;Flutter+%7C+TensorFlow+%7C+Firebase" alt="Typing SVG" />
+  </a>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <ul>
+    <li>B.Tech CSE student at <b>IIIT Manipur</b></li>
+    <li>Working on AI for Agriculture & Drone Delivery Systems</li>
+    <li>Exploring <b>Advanced ML</b>, <b>Database Internals</b>, <b>App Development</b></li>
+    <li>Building cross-platform apps with <b>Flutter</b> + <b>Firebase</b></li>
+    <li>Learning full-stack development & scalable AI systems</li>
+  </ul>
+</div>
 
-![banner](https://github.com/user-attachments/assets/4abd672e-6ec2-4ae1-9bbb-7d255554a6ac)
-# Hi there 👋🏼, I'm Rahul:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-🧑‍🎓 B.Tech student at IIIT Manipur, specializing in Computer Science with a focus on AI and Data Science<br>💡 Currently exploring the field of artificial intelligence<br>
+## Tech Stack
 
+### Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahulsharma.hps@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-sharma-91b2bb2a3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rahulsharmahps) 
+### Development & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,flutter,firebase,git,github,figma,blender" />
+</div>
 
-# 🛠️ Technical Skillset:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulsiiitm&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulsiiitm&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiiitm&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### AI/ML Libraries
+<div align="center">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahulsiiitm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=rahulsiiitm&icon=8&color=5)](https://visitcount.itsvg.in)
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsiiitm&theme=vue&hide_border=true&show_icons=true&bg_color=0D1117&title_color=38B27D&text_color=FFFFFF&icon_color=38B27D"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsiiitm&theme=vue&hide_border=true&background=0D1117&ring=38B27D&fire=38B27D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38B27D&sideLabels=38B27D"/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiiitm&layout=compact&theme=vue&hide_border=true&bg_color=0D1117&title_color=38B27D&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiiitm&layout=compact&theme=vue&hide_border=true&bg_color=0D1117&title_color=38B27D&text_color=FFFFFF" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## Current Projects
+
+<div align="center">
+  <table border="0" style="border:none; border-collapse:collapse;">
+    <tr>
+      <td align="center">
+        <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" height="100" />
+        <br>
+        <strong style="color:#38B27D;">AI/ML</strong>
+        <ul align="left">
+          <li>Plant Disease Detection</li>
+          <li>NLP for Education</li>
+          <li>Drone Drop-Zone AI</li>
+        </ul>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="100" height="100" />
+        <br>
+        <strong style="color:#38B27D;">App Development</strong>
+        <ul align="left">
+          <li>AgriHive</li>
+          <li>Multilingual Chatbot</li>
+          <li>Smart Plantation</li>
+        </ul>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100" height="100" />
+        <br>
+        <strong style="color:#38B27D;">Web Development</strong>
+        <ul align="left">
+          <li>CV Display System</li>
+          <li>Advanced Databases</li>
+          <li>UI/UX Design</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rahul-sharma-91b2bb2a3" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-38B27D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/rahulsharma.hps@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-38B27D?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://pinterest.com/rahulsharmahps" target="_blank">
+    <img src="https://img.shields.io/badge/pinterest-38B27D?style=for-the-badge&logo=pinterest&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulsiiitm&style=flat-square&color=38B27D" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&border=true&quoteBorderColor=38B27D&backgroundColor=0D1117&textColor=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <p><i>"Turning ideas into impactful solutions through technology."</i></p>
+</div>
