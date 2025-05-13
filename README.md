@@ -156,9 +156,6 @@
   <a href="https://pinterest.com/rahulsharmahps" target="_blank">
     <img src="https://img.shields.io/badge/pinterest-38B27D?style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/rahulsiiitm" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-38B27D?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
   <a href="mailto:rahulsharma.hps@gmail.com">
     <img src="https://img.shields.io/badge/email-38B27D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
