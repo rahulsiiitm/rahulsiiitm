@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/user-attachments/assets/4abd672e-6ec2-4ae1-9bbb-7d255554a6ac" alt="banner" style="width:100%; border-radius:10px;"/>
+<img width="1350" height="450" alt="🛠️ Technical Skillset" src="https://github.com/user-attachments/assets/6e6276dc-4c86-448a-82e3-ccfd79909a95" />
 
 <div align="center">
   <h1>Rahul Sharma</h1>
