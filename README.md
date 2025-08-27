@@ -76,7 +76,7 @@
 ## GitHub Trophies 🏆
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulsiiitm&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=rahulsiiitm&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 </div>
 
 <div align="center">
