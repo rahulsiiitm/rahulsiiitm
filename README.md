@@ -101,62 +101,60 @@
 </div>
 
 ## Current Projects
-
 <div align="center">
-  <table border="0" style="border:none; border-collapse:collapse; table-layout:fixed; width:100%;">
-    <tr>
-      <!-- AI/ML -->
-      <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
-        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100" height="100" />
-        <br>
-        <strong style="color:#38B27D;">AI / ML</strong>
-        <ul align="left">
-          <li><a href="#">Plant Disease Detection System</a></li>
-          <li><a href="#">AI-based Auto-Grading (NLP for Education)</a></li>
-          <li><a href="#">ATC Drone Drop-Zone AI</a></li>
-          <li><a href="#">Walmart Guidance Bot (AI + LangChain)</a></li>
-        </ul>
-      </td>
-      <!-- App Development -->
-      <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
-        <br>
-        <strong style="color:#38B27D;">App Development</strong>
-        <ul align="left">
-          <li><a href="#">AgriHive (Completed)</a></li>
-          <li><a href="#">Multilingual Chatbot with Gemini</a></li>
-          <li><a href="#">Smart Plantation Management</a></li>
-          <li><a href="#">Flutter UI Components</a></li>
-        </ul>
-      </td>
-      <!-- Web Development -->
-      <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100" />
-        <br>
-        <strong style="color:#38B27D;">Web Development</strong>
-        <ul align="left">
-          <li><a href="#">CV Display System</a></li>
-          <li><a href="#">Phone Book (CRUD)</a></li>
-          <li><a href="#">UI/UX Case Studies</a></li>
-          <li><a href="#">RESTful API Services</a></li>
-        </ul>
-      </td>
-      <!-- Hackathons & Research -->
-      <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
-        <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100" height="100" />
-        <br>
-        <strong style="color:#38B27D;">Hackathons & Research</strong>
-        <ul align="left">
-          <li><a href="#">Google Solution Challenge (AgriHive)</a></li>
-          <li><a href="#">ISRO Hackathon</a></li>
-          <li><a href="#">AI for Sustainable Farming</a></li>
-          <li><a href="#">Drone Systems Research</a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+ <table border="0" style="border:none; border-collapse:collapse; table-layout:fixed; width:100%;">
+   <tr>
+     <!-- AI/ML -->
+     <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
+       <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100" height="100" />
+       <br>
+       <strong style="color:#38B27D;">AI / ML</strong>
+       <ul align="left">
+         <li>Plant Disease Detection System</li>
+         <li>AI-based Auto-Grading (NLP for Education)</li>
+         <li>ATC Drone Drop-Zone AI</li>
+         <li>Walmart Guidance Bot (AI + LangChain)</li>
+       </ul>
+     </td>
+     <!-- App Development -->
+     <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
+       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
+       <br>
+       <strong style="color:#38B27D;">App Development</strong>
+       <ul align="left">
+         <li>AgriHive (Completed)</li>
+         <li>Multilingual Chatbot with Gemini</li>
+         <li>Smart Plantation Management</li>
+         <li>Flutter UI Components</li>
+       </ul>
+     </td>
+     <!-- Web Development -->
+     <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
+       <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100" />
+       <br>
+       <strong style="color:#38B27D;">Web Development</strong>
+       <ul align="left">
+         <li>CV Display System</li>
+         <li>Phone Book (CRUD)</li>
+         <li>UI/UX Case Studies</li>
+         <li>RESTful API Services</li>
+       </ul>
+     </td>
+     <!-- Hackathons & Research -->
+     <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
+       <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100" height="100" />
+       <br>
+       <strong style="color:#38B27D;">Hackathons & Research</strong>
+       <ul align="left">
+         <li>Google Solution Challenge (AgriHive)</li>
+         <li>ISRO Hackathon</li>
+         <li>AI for Sustainable Farming</li>
+         <li>Drone Systems Research</li>
+       </ul>
+     </td>
+   </tr>
+ </table>
 </div>
-
 ## Connect With Me
 
 <div align="center">
