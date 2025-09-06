@@ -162,8 +162,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sharma-91b2bb2a3)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulsharma.hps@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsharma)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulsharma.hps@gmail.com)k4
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/rahulsharma.hps@gmail.com)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/rahulsharmahps)
 
