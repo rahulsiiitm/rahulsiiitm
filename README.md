@@ -41,6 +41,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
 </div>
 
+## Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
+</div>
+
 ## Data Science & Analytics
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -59,7 +64,7 @@
 
 ## Development Tools & Design
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,nodejs,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,docker" /><br>
   <img src="https://skillicons.dev/icons?i=figma,blender" />
 </div>
 
@@ -152,6 +157,18 @@
   <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="150" />
   <br>
   <em>⚡ Powered by curiosity and chaos! ⚡</em>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## Activity Graph
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsiiitm&custom_title=Rahul's%20Contribution%20Graph&bg_color=0D1117&color=38B27D&line=38B27D&point=38B27D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 <div align="center">
