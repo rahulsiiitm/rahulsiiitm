@@ -29,45 +29,39 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## Tech Stack
+# Tech Stack
 
-### Languages
+## Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,dart,c,cpp,php" />
 </div>
 
----
-
-### Development & Tools
+## Frontend & Mobile Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,flutter,dart,firebase,git,github,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
 </div>
 
----
-
-### AI / ML
+## Data Science & Analytics
 <div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </div>
 
----
-
-### Databases
+## AI & Machine Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 </div>
 
+## Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+</div>
+
+## Development Tools & Design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,nodejs,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -76,8 +70,7 @@
 ## GitHub Trophies 🏆
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=rahulsiiitm&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</div>
+<img src="https://github-trophies.vercel.app/?username=rahulsiiitm&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" /></div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -100,90 +93,102 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## Current Projects
-<div align="center">
- <table border="0" style="border:none; border-collapse:collapse; table-layout:fixed; width:100%;">
-   <tr>
-     <!-- AI/ML -->
-     <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
-       <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100" height="100" />
-       <br>
-       <strong style="color:#38B27D;">AI / ML</strong>
-       <ul align="left">
-         <li>Plant Disease Detection System</li>
-         <li>AI-based Auto-Grading (NLP for Education)</li>
-         <li>ATC Drone Drop-Zone AI</li>
-         <li>Walmart Guidance Bot (AI + LangChain)</li>
-       </ul>
-     </td>
-     <!-- App Development -->
-     <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
-       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
-       <br>
-       <strong style="color:#38B27D;">App Development</strong>
-       <ul align="left">
-         <li>AgriHive (Completed)</li>
-         <li>Multilingual Chatbot with Gemini</li>
-         <li>Smart Plantation Management</li>
-         <li>Flutter UI Components</li>
-       </ul>
-     </td>
-     <!-- Web Development -->
-     <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
-       <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100" />
-       <br>
-       <strong style="color:#38B27D;">Web Development</strong>
-       <ul align="left">
-         <li>CV Display System</li>
-         <li>Phone Book (CRUD)</li>
-         <li>UI/UX Case Studies</li>
-         <li>RESTful API Services</li>
-       </ul>
-     </td>
-     <!-- Hackathons & Research -->
-     <td align="center" style="width:25%; min-height:250px; vertical-align:top; padding:10px;">
-       <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100" height="100" />
-       <br>
-       <strong style="color:#38B27D;">Hackathons & Research</strong>
-       <ul align="left">
-         <li>Google Solution Challenge (AgriHive)</li>
-         <li>ISRO Hackathon</li>
-         <li>AI for Sustainable Farming</li>
-         <li>Drone Systems Research</li>
-       </ul>
-     </td>
-   </tr>
- </table>
-</div>
-## Connect With Me
+# Current Projects
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rahul-sharma-91b2bb2a3" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-38B27D?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/rahulsharma.hps@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-38B27D?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://pinterest.com/rahulsharmahps" target="_blank">
-    <img src="https://img.shields.io/badge/pinterest-38B27D?style=for-the-badge&logo=pinterest&logoColor=white"/>
-  </a>
-  <a href="mailto:rahulsharma.hps@gmail.com">
-    <img src="https://img.shields.io/badge/email-38B27D?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulsiiitm&style=flat-square&color=38B27D" alt="Profile views"/>
-  <a href="https://github.com/rahulsiiitm?tab=followers">
-    <img src="https://img.shields.io/github/followers/rahulsiiitm?label=Followers&style=flat-square&color=38B27D" alt="Followers"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&border=true&quoteBorderColor=38B27D&backgroundColor=0D1117&textColor=ffffff"/>
+  <table>
+    <tr>
+      <!-- AI/ML Projects -->
+      <td align="center" width="300">
+        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="80" height="80" />
+        <h3>AI / ML</h3>
+        <p align="left">
+          • Plant Disease Detection System<br>
+          • AI-based Auto-Grading (NLP)<br>
+          • ATC Drone Drop-Zone AI<br>
+          • Walmart Guidance Bot (LangChain)
+        </p>
+      </td>
+      <!-- App Development -->
+      <td align="center" width="300">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" height="80" />
+        <h3>App Development</h3>
+        <p align="left">
+          • AgriHive<br>
+          • Multilingual Chatbot with Gemini<br>
+          • Smart Plantation Management<br>
+          • Flutter UI Components
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Web Development -->
+      <td align="center" width="300">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80" />
+        <h3>Web Development</h3>
+        <p align="left">
+          • CV Display System<br>
+          • Phone Book (CRUD)<br>
+          • UI/UX Case Studies<br>
+          • RESTful API Services
+        </p>
+      </td>
+      <!-- Hackathons & Research -->
+      <td align="center" width="300">
+        <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="80" height="80" />
+        <h3>Hackathons & Research</h3>
+        <p align="left">
+          • Google Solution Challenge<br>
+          • ISRO Hackathon<br>
+          • AI for Sustainable Farming<br>
+          • Drone Systems Research
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="150" />
+  <br>
+  <em>⚡ Powered by curiosity and chaos! ⚡</em>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <p><i>"Turning ideas into impactful solutions through technology."</i></p>
 </div>
+
+## Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sharma-91b2bb2a3)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulsharma.hps@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/rahulsharma.hps@gmail.com)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/rahulsharmahps)
+
+</div>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=rahulsiiitm&style=for-the-badge&color=blueviolet)
+[![Followers](https://img.shields.io/github/followers/rahulsiiitm?style=for-the-badge&color=orange&labelColor=black)](https://github.com/rahulsiiitm?tab=followers)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+</div>
+
