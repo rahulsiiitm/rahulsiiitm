@@ -11,18 +11,61 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## About Me
+## 🎯 About Me
 
-<div align="left">
-  <ul>
-    <li>B.Tech CSE student at <b>IIIT Manipur</b></li>
-    <li>Working on AI for Agriculture & Drone Delivery Systems</li>
-    <li>Exploring <b>Advanced ML</b>, <b>Database Internals</b>, <b>App Development</b></li>
-    <li>Building cross-platform apps with <b>Flutter</b> + <b>Firebase</b></li>
-    <li>Learning full-stack development & scalable AI systems</li>
-    <li>Open to collaboration on innovative tech projects</li>
-    <li>Passionate about solving real-world problems through technology</li>
-  </ul>
+<div align="center">
+
+```yaml
+name: Rahul Sharma
+education: B.Tech Computer Science & Engineering @ IIIT Manipur
+focus: ["AI/ML", "Full-Stack Development", "Mobile Apps"]
+current_projects: ["AI for Agriculture", "Drone Delivery Systems", "Log Management System"]
+learning: ["Advanced ML", "Database Internals", "System Design"]
+```
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎓 Academic Journey
+**B.Tech CSE Student**  
+*IIIT Manipur*
+
+Exploring cutting-edge technologies and building foundations in computer science fundamentals
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Current Work
+**AI for Agriculture**  
+**Drone Delivery Systems**
+
+Creating intelligent solutions that bridge technology with real-world impact
+
+</td>
+<td align="center" width="33%">
+
+### 🌱 Learning Path
+**Advanced ML**  
+**Database Internals**  
+**App Development**
+
+Continuously expanding knowledge in emerging technologies
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 My Philosophy
+
+> *"Organized chaos is my default mode. One moment I'm tweaking Flutter UIs, the next I'm training models in TensorFlow, setting up Firebase, building prototypes, or even chatting with GPT. It's less of a workflow, more of a wild tech sprint. If something's blinking or broken, I'm already halfway through fixing it, reimagining it… or I've already destroyed it (in the name of development, of course) 😎"*
+
+**Open to collaborating** on projects that embrace the beautiful chaos of innovation! 🤝
+
 </div>
 
 <div align="center">
