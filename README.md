@@ -233,7 +233,7 @@ Continuously expanding knowledge in emerging technologies
   
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsiiitm&style=for-the-badge&color=blueviolet)
 [![Followers](https://img.shields.io/github/followers/rahulsiiitm?style=for-the-badge&color=orange&labelColor=black)](https://github.com/rahulsiiitm?tab=followers)
-
+[![An image of @rahulsiiitm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulsiiitm)](https://holopin.io/@rahulsiiitm)
 </div>
 
 ---
