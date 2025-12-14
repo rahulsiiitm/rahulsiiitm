@@ -57,8 +57,3 @@ My work sits at the intersection of intelligent systems and user-centric applica
 * **Walmart Guidance Bot:** An AI chatbot utilizing LangChain and LLMs for semantic product search and customer guidance. *(LangChain, Flask, PostgreSQL)*
 
 ---
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="
