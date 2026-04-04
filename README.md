@@ -12,11 +12,9 @@
   <a href="https://www.linkedin.com/in/rahulsharma2k4">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:rahulsharma.hps@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://rahul.aishtrex.com">
     <img src="https://img.shields.io/badge/Portfolio-38B27D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -38,11 +36,11 @@ My work focuses on developing **intelligent software systems** that combine **ma
 | Category            | Technologies                                                                      |
 | :------------------ | :-------------------------------------------------------------------------------- |
 | **Languages**       | <img src="https://skillicons.dev/icons?i=python,cpp,dart,js,php"/>                |
-| **AI & ML**         | <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn"/>   LangChain |
+| **AI & ML**         | <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn"/>   LangChain |
 | **App Development** | <img src="https://skillicons.dev/icons?i=flutter"/>                               |
 | **Backend**         | <img src="https://skillicons.dev/icons?i=flask,nodejs"/>                          |
 | **Databases**       | <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql"/>               |
-| **Tools**           | <img src="https://skillicons.dev/icons?i=git,docker,figma"/>   ROS                |
+| **Tools**           | <img src="https://skillicons.dev/icons?i=git,docker,figma"/>   ROS                |
 
 <br/>
 
@@ -62,7 +60,6 @@ AI-powered agricultural advisory platform designed to support small and marginal
 <a href="https://github.com/rahulsiiitm/AgriHive-Frontend">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://agrihive-c8f6b.web.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-38B27D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
@@ -71,9 +68,9 @@ AI-powered agricultural advisory platform designed to support small and marginal
 
 **Technology**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ---
 
@@ -86,7 +83,6 @@ The platform provides conference information including schedules, speaker detail
 <a href="https://github.com/rahulsiiitm/icaiac-2026">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://icaiac-2026.vercel.app">
 <img src="https://img.shields.io/badge/Visit%20Website-38B27D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
@@ -117,15 +113,11 @@ Simulation system for autonomous UAV navigation integrating SLAM-based localizat
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- <a href="#">
-<img src="https://img.shields.io/badge/Project%20Demo-38B27D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a> -->
-
 <br/>
 
 **Technology**
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
 
@@ -142,19 +134,11 @@ Secure log monitoring and analytics platform designed for real-time system monit
 • AI-based anomaly detection
 • Data visualization and reporting
 
-<!-- <a href="https://github.com/YOURUSERNAME/aegis">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Project%20Demo-38B27D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a> -->
-
 <br/>
 
 **Technology**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
 
@@ -162,43 +146,39 @@ Secure log monitoring and analytics platform designed for real-time system monit
 
 <br/>
 
----
-
 ## GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulsiiitm&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiiitm&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulsiiitm&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiiitm&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rahulsiiitm&theme=github-dark&hide_border=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=rahulsiiitm&theme=github-dark"/>
-
+<p align="center">
+  <img src="github-metrics.svg"/>
 </p>
 
 ---
 
 ## Research & Interests
 
-- Artificial Intelligence
-- Machine Learning Systems
-- Computer Vision
-- Autonomous Systems
-- Human-Centered Software Design
+`Artificial Intelligence` `Machine Learning` `Computer Vision` `Autonomous Systems` `Human-Centered Design`
 
 <br/>
 
-## Contact
+---
 
-LinkedIn
-https://linkedin.com/in/rahulsharma2k4
-
-Portfolio
-https://rahul.aishtrex.com
-
-Email
-[rahulsharma.hps@gmail.com](mailto:rahulsharma.hps@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/rahulsharma2k4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://rahul.aishtrex.com">
+    <img src="https://img.shields.io/badge/Portfolio-38B27D?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:rahulsharma.hps@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
