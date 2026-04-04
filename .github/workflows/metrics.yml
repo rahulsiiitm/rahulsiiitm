@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: rahulsiiitm
           template: classic
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          base: header, activity, community, repositories
+          output_action: commit
+          committer_branch: main
