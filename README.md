@@ -45,31 +45,36 @@ databases  = ["Firebase", "PostgreSQL", "MySQL"]
 tools      = ["Git", "Docker", "Figma", "ROS"]
 ```
 
----
-
 ### `~/projects`
 
 ```
 .
-├── AgriHive/               # AI agricultural advisory platform
+├── VidChain/                # Edge-optimized Multimodal Video RAG [PyPI]
+│   ├── Multimodal embedding pipelines
+│   ├── Edge-device optimization for RAG
+│   ├── Real-time video querying logic
+│   └── Stack: Python · PyTorch · LanceDB · PyPI
+│   └── 🔗 pypi.org/project/vidchain
+│
+├── AgriHive/                # AI agricultural advisory platform
 │   ├── CNN plant disease detection
 │   ├── Crop lifecycle management
 │   ├── Multilingual advisory interface
 │   └── Stack: Flutter · TensorFlow · Firebase
-│   └── 🔗 github.com/rahulsiiitm/AgriHive-Frontend
+│   └── 🔗 [github.com/rahulsiiitm/AgriHive-Frontend]
 │
-├── ICAIAC-2026/            # International AI conference website
-│   ├── Schedules, speakers, submissions
+├── ICAIAC-2026/             # International AI conference website
+│   ├── Lead Designer & Developer
 │   └── Stack: Next.js · TailwindCSS · Prisma · PostgreSQL
-│   └── 🔗 github.com/rahulsiiitm/icaiac-2026
+│   └── 🔗 [github.com/rahulsiiitm/icaiac-2026]
 │
-├── drone-nav/              # Autonomous UAV navigation system
+├── drone-nav/               # Autonomous UAV navigation system
 │   ├── Visual SLAM localization
 │   ├── CNN-based obstacle detection
 │   └── Stack: Python · ROS · OpenCV
-│   └── 🔗 github.com/rahulsiiitm/semantic_drone_project
+│   └── 🔗 [github.com/rahulsiiitm/semantic_drone_project]
 │
-└── Aegis/                  # Secure log monitoring [CRPF] [RESTRICTED]
+└── Aegis/                   # Secure log monitoring [CRPF] [CLIENT-BASED]
     ├── Real-time anomaly detection
     └── Stack: Flutter · Firestore · Dart
 ```
@@ -99,9 +104,18 @@ tools      = ["Git", "Docker", "Figma", "ROS"]
 ```
 
 ---
-
 <div align="center">
 
 `// let's build something.`
 
+<br/>
+
+<!-- Visitor Counter & Social Proof -->
+![Unique Visitors](https://komarev.com/ghpvc/?username=rahulsiiitm&color=38B27D&style=flat-square&label=VISITORS)
+
+<br/>
+
+**Build with precision, craft with creativity. ⚡**
+
+</div>
 </div>
