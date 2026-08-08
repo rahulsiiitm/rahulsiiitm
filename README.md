@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=googlechrome&logoColor=C1121F)](https://rahul.aishtrex.com)
 [![Gmail](https://img.shields.io/badge/Gmail-C1121F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsharma.hps@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ffffff?style=for-the-badge&logo=kaggle&logoColor=C1121F)](https://www.kaggle.com/rahulsharma2k4)
-[![Now Playing](https://img.shields.io/badge/Now_Playing-Where_Winds_Meet-1a1a1a?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
+[![Now Playing](https://img.shields.io/badge/Now_Playing-Spider--Man_Remastered-1a1a1a?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
 
 </div>
 
@@ -20,14 +20,7 @@
 
 ## 🕷️ About
 
-```ansi
-[1;31mRahul Sharma[0m — [1;37mFinal-year CS & Engineering, IIIT Manipur[0m
-[1;30m────────────────────────────────────────────────────[0m
-[0;37mspecialization[0m   AI & Data Science
-[0;37mbuilds[0m           RAG pipelines · agents · applied ML systems
-[0;37mstandard[0m         production-grade — meant to survive real load
-[0;37mrig[0m              Arch Linux · Hyprland · Caelestia shell
-```
+I'm Rahul — a final-year CS & Engineering student at IIIT Manipur, specializing in AI & Data Science. I build things that work in the real world, not just in a demo: RAG assistants, agents, and ML tools designed to hold up under actual use. Right now I split my time between competitive challenges, placement prep, and shipping side projects.
 
 ---
 
@@ -39,8 +32,7 @@
 
 | Status | What |
 |---|---|
-| 🔴 In progress | **Kaggle — Pokémon TCG AI Battle Challenge** — rule-based Mega Lucario ex agent with 2-ply minimax search. Entry deadline Aug 9, final submission Aug 16. |
-| 🔴 In progress | **job-watcher** — GitHub Actions job monitor covering Greenhouse/Lever APIs and career pages, scaling toward ~1,000 tracked URLs including YC companies. |
+| 🔴 In progress | **Competitions** — currently competing in Kaggle challenges. |
 | 🔴 In progress | **Placements + DSA** — daily practice, ongoing. |
 | ✅ Shipped | **Sutra** — production RAG assistant, live at IIT Roorkee. |
 | ✅ Shipped | **VidChain** — published on PyPI, 7,000+ downloads. |
@@ -50,7 +42,7 @@
 ## Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,dart,js,php,tensorflow,opencv,scikitlearn,langchain,fastapi,flask,nodejs,flutter,postgres,firebase,mysql,docker,git,figma&theme=light&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,js,php,tensorflow,opencv,scikitlearn,langchain,fastapi,flask,nodejs,flutter,postgres,firebase,mysql,docker,git,figma,archlinux&theme=dark&perline=10"/>
 </div>
 
 ```ansi
@@ -59,7 +51,7 @@
 [1;31mbackend[0m     FastAPI · Flask · Node.js
 [1;31mmobile[0m      Flutter
 [1;31mdata[0m        PostgreSQL · Qdrant · Firebase · MySQL
-[1;31mops[0m         Docker · Git · ROS
+[1;31mops[0m         Docker · Git · ROS · Arch Linux
 ```
 
 ---
@@ -116,11 +108,6 @@ Autonomous UAV attitude stabilization. PPO/SAC trained on ArduPilot SITL + Gazeb
 
 [![Followers](https://img.shields.io/github/followers/rahulsiiitm?style=for-the-badge&label=FOLLOWERS&color=C1121F&labelColor=ffffff)](https://github.com/rahulsiiitm?tab=followers)
 [![Total Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPO%20STARS&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Frahulsiiitm&color=C1121F&labelColor=ffffff)](https://github.com/rahulsiiitm?tab=repositories)
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulsiiitm&show_icons=true&theme=dark&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=C1121F&icon_color=C1121F&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiiitm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1121F&text_color=c9d1d9"/>
 
 <br/>
 
