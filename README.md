@@ -3,10 +3,10 @@
 <img width="100%" height="100%" alt="images steamusercontent" src="https://github.com/user-attachments/assets/82507e43-1ff4-4465-acac-42120ea6db24" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=C1121F&center=true&vCenter=true&width=800&lines=Final-year+%40+IIIT+Manipur+%C2%B7+AI+%26+Data+Science;Building+production+systems%2C+not+demos;Kaggle+TCG+challenge+%2B+placement+season;Last+deploy%3A+Sutra+%40+IIT+Roorkee+%5BLIVE%5D" width="80%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=C1121F&center=true&vCenter=true&width=800&lines=Final-year+%40+IIIT+Manipur+%C2%B7+AI+%26+Data+Science;Building+production+systems%2C+not+demos;Kaggle+challenge+%2B+placement+season;Last+deploy%3A+Sutra+%40+IIT+Roorkee+%5BLIVE%5D" width="80%"/>
 </p>
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C1121F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsharma2k4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=googlechrome&logoColor=C1121F)](https://rahul.aishtrex.com)
@@ -18,9 +18,9 @@
 
 ---
 
-## 🕷️ About
+##  About
 
-I'm Rahul — a final-year CS & Engineering student at IIIT Manipur, specializing in AI & Data Science. I build things that work in the real world, not just in a demo: RAG assistants, agents, and ML tools designed to hold up under actual use. Right now I split my time between competitive challenges, placement prep, and shipping side projects.
+Hi!! I'm Rahul and this section is written by me personally😂, am a final-year CS & Engineering student at IIIT Manipur, specializing in AI & Data Science. I am a kind of person who just likes to build, it is one of my hobby though, I like how these things we tweaks turns out to be working in different different ways. That's why I chose applied AI as my career choice, I like to build products in a way nobody have imagined - I am not a research guy obviously😁. Right now I split my time between competitive challenges, placement prep, and shipping side projects. Hope you'll like my profile.
 
 ---
 
@@ -42,7 +42,7 @@ I'm Rahul — a final-year CS & Engineering student at IIIT Manipur, specializin
 ## Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,dart,js,php,tensorflow,opencv,scikitlearn,langchain,fastapi,flask,nodejs,flutter,postgres,firebase,mysql,docker,git,figma,archlinux&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,js,php,tensorflow,opencv,scikitlearn,fastapi,flask,nodejs,flutter,postgres,firebase,mysql,docker,git,figma&theme=dark&perline=10"/>
 </div>
 
 ```ansi
