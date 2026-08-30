@@ -126,6 +126,4 @@ Autonomous UAV attitude stabilization. PPO/SAC trained on ArduPilot SITL + Gazeb
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsiiitm&color=C1121F&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Building with precision, one deploy at a time. 🕷️**
-
 </div>
