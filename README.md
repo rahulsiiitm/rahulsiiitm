@@ -1,108 +1,140 @@
 <div align="center">
 
-<img width="100%" height="100%" alt="images steamusercontent" src="https://github.com/user-attachments/assets/82507e43-1ff4-4465-acac-42120ea6db24" />
+<img width="100%" height="100%" alt="banner" src="https://github.com/user-attachments/assets/82507e43-1ff4-4465-acac-42120ea6db24" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=C1121F&center=true&vCenter=true&width=800&lines=Final-year+%40+IIIT+Manipur+%C2%B7+AI+%26+Data+Science;Building+production+systems%2C+not+demos;Kaggle+challenge+%2B+placement+season;Last+deploy%3A+Sutra+%40+IIT+Roorkee+%5BLIVE%5D" width="80%"/>
 </p>
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C1121F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsharma2k4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=googlechrome&logoColor=C1121F)](https://rahul.aishtrex.com)
 [![Gmail](https://img.shields.io/badge/Gmail-C1121F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsharma.hps@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ffffff?style=for-the-badge&logo=kaggle&logoColor=C1121F)](https://www.kaggle.com/rahulsharma2k4)
-[![Now Playing](https://img.shields.io/badge/Now_Playing-Spider--Man_Remastered-1a1a1a?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
+
+<sub><i>sometimes great responsibilty comes without great powers</i></sub>
+
+<br/>
+
+🕸️ ─────────── 🕷️ ─────────── 🕸️
 
 </div>
 
----
-
-##  About
+## About
 
 Hi!! I'm Rahul and this section is written by me personally😂, am a final-year CS & Engineering student at IIIT Manipur, specializing in AI & Data Science. I am a kind of person who just likes to build, it is one of my hobby though, I like how these things we tweaks turns out to be working in different different ways. That's why I chose applied AI as my career choice, I like to build products in a way nobody have imagined - I am not a research guy obviously😁. Right now I split my time between competitive challenges, placement prep, and shipping side projects. Hope you'll like my profile.
 
----
+<br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-🕸️-C1121F?style=flat-square" height="18"/>
+
+🕸️ ─────────── 🕷️ ─────────── 🕸️
+
 </div>
 
-## 🕸️ Currently
+## Spidey-Sense <sub>(currently)</sub>
 
-| Status | What |
-|---|---|
-| 🔴 In progress | **Competitions** — currently competing in Kaggle challenges. |
-| 🔴 In progress | **Placements + DSA** — daily practice, ongoing. |
-| ✅ Shipped | **Sutra** — production RAG assistant, live at IIT Roorkee. |
-| ✅ Shipped | **VidChain** — published on PyPI, 7,000+ downloads. |
-
----
-
-## Stack
+| Signal | Focus | Details |
+|:--|:--|:--|
+| 🔴 Tingling | **Competitions** | Competing in Kaggle challenges |
+| 🔴 Tingling | **Placements + DSA** | Daily practice, ongoing |
+| 🕸️ Swung | **Sutra** | Production RAG assistant, live at IIT Roorkee |
+| 🕸️ Swung | **VidChain** | Published on PyPI, 7,000+ downloads |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,dart,js,php,tensorflow,opencv,scikitlearn,fastapi,flask,nodejs,flutter,postgres,firebase,mysql,docker,git,figma&theme=dark&perline=10"/>
+
+🕸️ ─────────── 🕷️ ─────────── 🕸️
+
 </div>
 
-```ansi
-[1;31mlanguages[0m   Python · C++ · Dart · JavaScript · PHP
-[1;31mai_ml[0m       TensorFlow · OpenCV · scikit-learn · LangChain
-[1;31mbackend[0m     FastAPI · Flask · Node.js
-[1;31mmobile[0m      Flutter
-[1;31mdata[0m        PostgreSQL · Qdrant · Firebase · MySQL
-[1;31mops[0m         Docker · Git · ROS · Arch Linux
-```
+## Web-Shooters <sub>(stack)</sub>
 
----
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,js,php,tensorflow,opencv,scikitlearn,fastapi,flask,nodejs,flutter,postgres,firebase,mysql,docker,git,figma&theme=dark&perline=9"/>
+</div>
 
-## Projects
+<br/>
+
+| Area | Tools |
+|:--|:--|
+| **Languages** | Python · C++ · Dart · JavaScript · PHP |
+| **AI / ML** | TensorFlow · OpenCV · scikit-learn · LangChain |
+| **Backend** | FastAPI · Flask · Node.js |
+| **Mobile** | Flutter |
+| **Data** | PostgreSQL · Qdrant · Firebase · MySQL |
+| **Ops** | Docker · Git · ROS · Arch Linux |
+
+<br/>
+
+<div align="center">
+
+🕸️ ─────────── 🕷️ ─────────── 🕸️
+
+</div>
+
+## Swung Into Production <sub>(projects)</sub>
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### Sutra
-`Live, deployed at IIT Roorkee`
+#### Sutra
+<sub>🔴 LIVE · Deployed at IIT Roorkee</sub>
 
-Production RAG knowledge assistant built during an Applied AI Internship, now serving the Academic Affairs office. Runs Qwen 3 14B behind a four-stage pipeline — query rewriting, evidence extraction, generation, verification — with Qdrant hybrid search (server-side RRF), Docling PDF parsing, SSE streaming, and PostgreSQL session history.
+Production RAG assistant serving the Academic Affairs office, built during an Applied AI internship. Qwen 3 14B behind a four-stage pipeline (query rewriting, evidence extraction, generation, verification) with Qdrant hybrid search, Docling PDF parsing, SSE streaming and PostgreSQL session history.
 
 `FastAPI` `Qdrant` `Docker` `Docling`
 
-</td><td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### VidChain
-`7,000+ downloads on PyPI`
+#### VidChain
+<sub>📦 PyPI · 7,000+ downloads</sub>
 
 Edge-optimized multimodal video RAG library. Handles multimodal embedding pipelines and real-time video querying under real device constraints.
 
 `Python` `PyTorch` `LanceDB`
-[→ pypi.org/project/vidchain](https://pypi.org/project/vidchain)
 
-</td></tr>
-<tr><td width="50%" valign="top">
+[pypi.org/project/vidchain](https://pypi.org/project/vidchain)
 
-### AgriHive
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### AgriHive
+<sub>🌱 Mobile · Multilingual</sub>
 
 AI agricultural advisory platform combining CNN-based plant disease detection with a multilingual interface, built for practical use by farmers.
 
 `Flutter` `TensorFlow` `Firebase`
-[→ AgriHive-Frontend](https://github.com/rahulsiiitm/AgriHive-Frontend)
 
-</td><td width="50%" valign="top">
+[AgriHive-Frontend](https://github.com/rahulsiiitm/AgriHive-Frontend)
 
-### vyoma
+</td>
+<td width="50%" valign="top">
 
-Autonomous UAV attitude stabilization. PPO/SAC trained on ArduPilot SITL + Gazebo, targeting eventual deployment on a Jetson Orin Nano companion computer.
+#### vyoma
+<sub>🚁 Robotics · Reinforcement learning</sub>
+
+Autonomous UAV attitude stabilization. PPO/SAC trained on ArduPilot SITL + Gazebo, targeting deployment on a Jetson Orin Nano companion computer.
 
 `Python` `ArduPilot` `Gazebo` `RL`
-[→ vyoma](https://github.com/rahulsiiitm/vyoma)
 
-</td></tr>
+[vyoma](https://github.com/rahulsiiitm/vyoma)
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-## GitHub Stats
+<div align="center">
+
+🕸️ ─────────── 🕷️ ─────────── 🕸️
+
+</div>
+
+## Web Stats <sub>(github)</sub>
 
 <div align="center">
 
@@ -111,14 +143,15 @@ Autonomous UAV attitude stabilization. PPO/SAC trained on ArduPilot SITL + Gazeb
 
 <br/>
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=rahulsiiitm&theme=dark&hide_border=true&background=0d1117&ring=C1121F&fire=C1121F&currStreakLabel=C1121F"/>
 
 </div>
 
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
