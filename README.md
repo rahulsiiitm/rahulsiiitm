@@ -6,7 +6,7 @@
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
-<sub>鯉 · my koi, redrawn every night from my GitHub activity</sub>
+<sub>my koi, redrawn every night from my GitHub activity</sub>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=C1121F&center=true&vCenter=true&width=800&lines=Final-year+%40+IIIT+Manipur+%C2%B7+AI+%26+Data+Science;Building+production+systems%2C+not+demos;Kaggle+challenge+%2B+placement+season;Last+deploy%3A+Sutra+%40+IIT+Roorkee+%5BLIVE%5D" width="80%"/>
@@ -19,9 +19,9 @@
 
 <sub><i>sometimes great responsibilty comes without great powers</i></sub>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets-spidey/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-about.svg" width="100%" alt="自己紹介 · About" />
+<img src="assets-spidey/h-about.svg" width="100%" alt="Chapter 1: About" />
 
 </div>
 
@@ -29,40 +29,40 @@ Hi!! I'm Rahul and this section is written by me personally😂, am a final-year
 
 <div align="center">
 
-<img src="assets/character.svg" width="100%" alt="Character sheet: Rahul, Applied AI Engineer" />
+<img src="assets-spidey/hero-card.svg" width="100%" alt="Rahul, Applied AI Engineer" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets-spidey/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-now.svg" width="100%" alt="現在 · Now" />
+<img src="assets-spidey/h-now.svg" width="100%" alt="Chapter 2: On Patrol" />
 
-<img src="assets/quest-log.svg" width="100%" alt="Quest log: Kaggle, Placements + DSA, Sutra, VidChain" />
+<img src="assets-spidey/missions.svg" width="100%" alt="Missions: Kaggle, Placements + DSA, Sutra, VidChain" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets-spidey/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-arsenal.svg" width="100%" alt="道具 · Arsenal" />
+<img src="assets-spidey/h-arsenal.svg" width="100%" alt="Chapter 3: Web-Shooters" />
 
-<img src="assets/arsenal.svg" width="100%" alt="Languages, AI/ML, backend, mobile, data and ops tools" />
+<img src="assets-spidey/loadout.svg" width="100%" alt="Languages, AI/ML, backend, mobile, data and ops tools" />
 
 <img src="https://skillicons.dev/icons?i=python,cpp,dart,js,php,tensorflow,opencv,scikitlearn,fastapi,flask,nodejs,flutter,postgres,firebase,mysql,docker,git,figma&theme=dark&perline=9"/>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets-spidey/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-works.svg" width="100%" alt="作品 · Works" />
+<img src="assets-spidey/h-works.svg" width="100%" alt="Chapter 4: Projects" />
 
 <table>
 <tr>
-<td width="50%"><img src="assets/card-sutra.svg" width="100%" alt="Sutra" /></td>
-<td width="50%"><a href="https://pypi.org/project/vidchain"><img src="assets/card-vidchain.svg" width="100%" alt="VidChain" /></a></td>
+<td width="50%"><img src="assets-spidey/card-sutra.svg" width="100%" alt="Sutra" /></td>
+<td width="50%"><a href="https://pypi.org/project/vidchain"><img src="assets-spidey/card-vidchain.svg" width="100%" alt="VidChain" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/rahulsiiitm/AgriHive-Frontend"><img src="assets/card-agrihive.svg" width="100%" alt="AgriHive" /></a></td>
-<td width="50%"><a href="https://github.com/rahulsiiitm/vyoma"><img src="assets/card-vyoma.svg" width="100%" alt="vyoma" /></a></td>
+<td width="50%"><a href="https://github.com/rahulsiiitm/AgriHive-Frontend"><img src="assets-spidey/card-agrihive.svg" width="100%" alt="AgriHive" /></a></td>
+<td width="50%"><a href="https://github.com/rahulsiiitm/vyoma"><img src="assets-spidey/card-vyoma.svg" width="100%" alt="vyoma" /></a></td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets-spidey/divider.svg" width="100%" alt="" />
 
-<img src="assets/h-records.svg" width="100%" alt="記録 · Records" />
+<img src="assets-spidey/h-records.svg" width="100%" alt="Chapter 5: The Numbers" />
 
 [![Followers](https://img.shields.io/github/followers/rahulsiiitm?style=for-the-badge&label=FOLLOWERS&color=C1121F&labelColor=ffffff)](https://github.com/rahulsiiitm?tab=followers)
 [![Total Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPO%20STARS&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Frahulsiiitm&color=C1121F&labelColor=ffffff)](https://github.com/rahulsiiitm?tab=repositories)
@@ -71,7 +71,7 @@ Hi!! I'm Rahul and this section is written by me personally😂, am a final-year
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="また会おう · see you around" />
+<img src="assets-spidey/footer.svg" width="100%" alt="See you around" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsiiitm&color=C1121F&style=for-the-badge&label=PROFILE+VIEWS)
 
